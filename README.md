@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/cocoapods/l/GravitySliderFlowLayout.svg?style=flat)](http://cocoapods.org/pods/GravitySliderFlowLayout)
 [![Platform](https://img.shields.io/cocoapods/p/GravitySliderFlowLayout.svg?style=flat)](http://cocoapods.org/pods/GravitySliderFlowLayout)
 [![Twitter](https://img.shields.io/badge/contact-@Applikey_-blue.svg?style=flat)](https://twitter.com/Applikey_)
-![Swift 3.0.x](https://img.shields.io/badge/Swift-3.0.x-orange.svg)
+![Swift 3.0.x](https://img.shields.io/badge/Swift-4.0.x-orange.svg)
 
 Made by [Applikey Solutions](https://applikeysolutions.com)
 
